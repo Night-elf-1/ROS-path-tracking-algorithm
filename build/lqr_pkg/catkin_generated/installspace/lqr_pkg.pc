@@ -1,0 +1,8 @@
+prefix=/home/itcast/catkin_path_tracking/install
+
+Name: lqr_pkg
+Description: Description of lqr_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

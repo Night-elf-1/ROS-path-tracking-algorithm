@@ -1,0 +1,2 @@
+car_model:classb_car_model:lqr_pkg:pure_persuit:purepursuit_pkg:stanley_pkg:styx_msgs:waypoint_loader:waypoint_updater
+-DCATKIN_DEVEL_PREFIX=/home/itcast/catkin_path_tracking/devel -DCMAKE_INSTALL_PREFIX=/home/itcast/catkin_path_tracking/install -G Unix Makefiles

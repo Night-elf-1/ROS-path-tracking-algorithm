@@ -1,0 +1,8 @@
+prefix=/home/itcast/catkin_path_tracking/install
+
+Name: B_class_car
+Description: Description of B_class_car
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

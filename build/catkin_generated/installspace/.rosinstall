@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/itcast/catkin_path_tracking/install/setup.sh

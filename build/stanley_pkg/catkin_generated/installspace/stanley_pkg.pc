@@ -1,0 +1,8 @@
+prefix=/home/itcast/catkin_path_tracking/install
+
+Name: stanley_pkg
+Description: Description of stanley_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
